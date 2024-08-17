@@ -1,0 +1,6 @@
+@VNGTest_HostAddress = http://localhost:5058
+
+GET {{VNGTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

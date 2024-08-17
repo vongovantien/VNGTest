@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vongo\\source\\repos\\VNGTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAFEC53-07EB-4AEF-B4AC-E66B32F6B076}|..\\TestVNG\\TestVNG.csproj|c:\\users\\vongo\\source\\repos\\testvng\\passwordupdatejobtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAFEC53-07EB-4AEF-B4AC-E66B32F6B076}|..\\TestVNG\\TestVNG.csproj|c:\\users\\vongo\\source\\repos\\testvng\\bookscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C4660A-FDF9-4467-BCC8-86BB1A541F26}|VNGTest.csproj|c:\\users\\vongo\\source\\repos\\vngtest\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C4660A-FDF9-4467-BCC8-86BB1A541F26}|VNGTest.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\vongo\\source\\repos\\VNGTest\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\vongo\\source\\repos\\VNGTest\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:39:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vongo\\source\\repos\\TestVNG\\BooksControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TestVNG\\BooksControllerTests.cs",
+              "ToolTip": "C:\\Users\\vongo\\source\\repos\\TestVNG\\BooksControllerTests.cs",
+              "RelativeToolTip": "..\\TestVNG\\BooksControllerTests.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAswMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:06:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordUpdateJobTests.cs",
+              "DocumentMoniker": "C:\\Users\\vongo\\source\\repos\\TestVNG\\PasswordUpdateJobTests.cs",
+              "RelativeDocumentMoniker": "..\\TestVNG\\PasswordUpdateJobTests.cs",
+              "ToolTip": "C:\\Users\\vongo\\source\\repos\\TestVNG\\PasswordUpdateJobTests.cs",
+              "RelativeToolTip": "..\\TestVNG\\PasswordUpdateJobTests.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwGwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:05:41.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
